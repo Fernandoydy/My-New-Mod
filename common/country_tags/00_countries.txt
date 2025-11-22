@@ -1,4 +1,3 @@
-#Europe
 ALB = "countries/Albania.txt"
 ADO = "countries/Andorra.txt"
 AUS = "countries/Austria.txt"
